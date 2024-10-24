@@ -40,3 +40,26 @@ foreach (int valor in arrayCopia)
 {
     Console.WriteLine($"Valor {valor}");
 }
+
+Console.Clear();
+
+// LISTA
+List<string> listaString = new List<string>();
+
+listaString.Add("A");
+listaString.Add("B");
+listaString.Add("C");
+
+// Usando o FOR
+Console.WriteLine("Usando o FOR:");
+for (int i = 0; i < listaString.Count; i++)
+{
+    Console.WriteLine($"Posição {i} - Valor {listaString[i]}");
+}
+
+// Usando o FOREACH
+Console.WriteLine("Usando o FOREACH:");
+foreach (string valor in listaString)
+{
+    Console.WriteLine($"Valor {valor}");
+}
