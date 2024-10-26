@@ -1,0 +1,26 @@
+[
+  {
+    "Id": 1,
+    "Produto": "Caneta",
+    "Preco": 1.99,
+    "DataVenda": "2024-10-25T23:30:32.11807-03:00"
+  },
+  {
+    "Id": 2,
+    "Produto": "Lápis",
+    "Preco": 0.99,
+    "DataVenda": "2024-10-25T23:30:32.11807-03:00"
+  },
+  {
+    "Id": 3,
+    "Produto": "Borracha",
+    "Preco": 0.50,
+    "DataVenda": "2024-10-25T23:30:32.11807-03:00"
+  },
+  {
+    "Id": 4,
+    "Produto": "Apontador",
+    "Preco": 1.50,
+    "DataVenda": "2024-10-25T23:30:32.11807-03:00"
+  }
+]
